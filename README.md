@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/yix-soviet/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  /></a>
   <a href=""><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  /></a>
   <a href="https://x.com/YixSoviet"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="33" alt="twitter logo"  /></a>
-  <a href=""><img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gitlab logo"  /></a>
+  <a href="https://gitlab.com/Yix-Soviet"><img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gitlab logo"  /></a>
   <a href="mailto:yixgamer56@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height="33" alt="gmail logo"  /></a>
 </div>
 
@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h1 data-importer="text" align="center">Hello World! This is my GitHub</h1>
+<h1 data-importer="text" align="center"><img src="https://i.ibb.co/8gQMjKvB/brandbird-transparent-outlined.gif" width="5%">Hello World! This is my GitHub<img src="https://i.ibb.co/8gQMjKvB/brandbird-transparent-outlined.gif" width="5%"></h1>
 
 ###
 
@@ -130,7 +130,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%C2%A92026%20YixSoviet.%20All%20rights%20reserved.%20v3.0.0&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=12&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%C2%A92026%20YixSoviet.%20All%20rights%20reserved.%20v3.0.3&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=12&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
